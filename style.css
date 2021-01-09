@@ -55,7 +55,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: space-evenly;
-    transition: transform .5s;;
+    transition: transform .5s;
 }
 
 @keyframes cardAnim {
